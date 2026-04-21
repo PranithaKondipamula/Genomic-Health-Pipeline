@@ -226,27 +226,3 @@ This demonstrates the invariant check has teeth.
 - Ancestry-stratified variant rarity module with gnomAD v4 subpopulation
   frequencies.
 
----
-
-## Citing
-
-```bibtex
-@software{kondipamula2026genomic_pipeline,
-  author = {Kondipamula, Pranitha},
-  title  = {Genomic Health Analytics Pipeline: Population-normalized
-            polygenic risk with genotype × phenotype convergence scoring
-            and confounder-weighted longitudinal biomarker analysis},
-  year   = {2026},
-  url    = {https://github.com/pranithakondipamula/genomic-health-pipeline}
-}
-```
-
----
-
-## License
-
-MIT. See `LICENSE`.
-
-**Disclaimer:** Research and educational purposes only. Not a medical
-device; does not provide clinical diagnoses; not a substitute for
-professional medical advice.
